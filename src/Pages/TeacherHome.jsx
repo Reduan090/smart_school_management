@@ -1,7 +1,7 @@
 const TeacherHome = () => {
     return (
         <div>
-            <h1>Teacher homee</h1>
+            <h1>Teacher homeee</h1>
         </div>
     );
 };
