@@ -1,7 +1,14 @@
+import Navbar from "../SharedComponents/Navbar";
+
 const Home = () => {
     return (
         <div>
-            <h2 className="text-3xl">Reduan Islam</h2>
+            <div>
+                <Navbar></Navbar>
+            </div>
+            <div>
+                <h2 className="text-3xl">Reduan Islam</h2>
+            </div>
         </div>
     );
 };
